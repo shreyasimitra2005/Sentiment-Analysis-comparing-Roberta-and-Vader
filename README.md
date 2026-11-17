@@ -87,3 +87,5 @@ MIT License: Feel free to adapt and build upon this.
 - Everyone in the open-source data science community
 
 If you have questions or want to suggest improvements, just use the project's issue tracker on GitHub. Dive into your own reviews—find out what your users really feel!
+
+Authored and Developed by Shreyasi Mitra and Shubhojeet Ghosh
